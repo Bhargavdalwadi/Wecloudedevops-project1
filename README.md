@@ -51,7 +51,7 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 Cloning the repository:
 
 ```sh
-$ git clone https://github.com/caroldelwing/WCD-DevOps
+https://github.com/Bhargavdalwadi/Wecloudedevops-project1.git
 ```
 
 Option 2: Download the scripts and save in your local machine.
@@ -72,8 +72,5 @@ $ ./linux_server_aws_setup.sh
 After executing the script, go to the AWS Console in the us-east-1 region, and you will be able to see the EC2 instances running. Wait for the Status Checks to be completed to check the version of the software installed in each instance.
 If you want to rerun the same script, firstly you'll have to manually delete the created SSH key pair on the AWS Console and in your machine.
 
-## Network Diagram
-
-![Screenshot of the project 1 network diagram.](/project_1/project1_network_diagram.png)
 
 
